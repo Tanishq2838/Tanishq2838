@@ -30,35 +30,19 @@ I enjoy building real-world applications that combine AI, backend systems, and m
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Technologies & Tools
 
-### Languages
-- Python
-- Java
-- C
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Web Development
-- HTML
-- CSS
-- React.js
-- Node.js
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Databases
-- MySQL
-- Supabase
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### AI / Machine Learning
-- Deep Learning
-- Computer Vision
-- Explainable AI (Grad-CAM Basics)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Tools & Platforms
-- Git
-- GitHub
-- Linux
-- VS Code
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # 📌 Featured Projects
 
@@ -73,7 +57,7 @@ Explainable AI-based multiclass oral lesion classification system using Efficien
 - Performance evaluation using precision, recall, and F1-score
 
 🔗 Repository:  
-<YOUR_ODTECT_REPO_LINK>
+https://github.com/Tanishq2838/OdTect
 
 ---
 
@@ -88,7 +72,7 @@ A full-stack safety platform for travelers with SOS alerts, geofencing, and real
 - Interactive map services
 
 🔗 Repository:  
-<YOUR_TOURX_REPO_LINK>
+https://github.com/Tanishq2838/TourX
 
 ---
 
