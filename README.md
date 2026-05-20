@@ -30,37 +30,6 @@ I enjoy building real-world applications that combine AI, backend systems, and m
 
 ---
 
-# Hi, I'm Tanishq 👋
-
-### AI & Full-Stack Developer  
-Building AI-Powered Systems
-
----
-
-## 🚀 About Me
-
-I'm a Computer Science undergraduate at GITAM University with interests in:
-
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Full-Stack Development
-- Intelligent Systems & Automation
-- Problem Solving and System Design
-
-I enjoy building real-world applications that combine AI, backend systems, and modern web technologies.
-
----
-
-## 🧠 Current Focus
-
-- Building AI-powered applications
-- Exploring Explainable AI and Computer Vision
-- Strengthening Data Structures & Algorithms
-- Developing scalable full-stack systems
-- Participating in hackathons and technical problem solving
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
