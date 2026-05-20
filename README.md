@@ -30,19 +30,66 @@ I enjoy building real-world applications that combine AI, backend systems, and m
 
 ---
 
-## 🔧 Technologies & Tools
+# Hi, I'm Tanishq 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### AI & Full-Stack Developer  
+Building AI-Powered Systems
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## 🚀 About Me
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+I'm a Computer Science undergraduate at GITAM University with interests in:
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Full-Stack Development
+- Intelligent Systems & Automation
+- Problem Solving and System Design
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I enjoy building real-world applications that combine AI, backend systems, and modern web technologies.
+
+---
+
+## 🧠 Current Focus
+
+- Building AI-powered applications
+- Exploring Explainable AI and Computer Vision
+- Strengthening Data Structures & Algorithms
+- Developing scalable full-stack systems
+- Participating in hackathons and technical problem solving
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- C
+
+### Web Development
+- HTML
+- CSS
+- React.js
+- Node.js
+
+### Databases
+- MySQL
+- Supabase
+
+### AI / Machine Learning
+- Deep Learning
+- Computer Vision
+- Explainable AI (Grad-CAM Basics)
+
+### Tools & Platforms
+- Git
+- GitHub
+- Linux
+- VS Code
+
+---
 
 # 📌 Featured Projects
 
