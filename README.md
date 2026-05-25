@@ -1,99 +1,71 @@
-```md
 # Hi, I'm Tanishq 👋
-
-### AI & Full-Stack Developer  
-Building AI-Powered Systems
+### CS Undergrad → DevOps & Cloud Engineer in progress
+Building real infrastructure, one commit at a time.
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science undergraduate at GITAM University with interests in:
+I'm a Computer Science undergraduate at GITAM University currently on an
+18-month structured journey to become a Cloud/DevOps/AI Infrastructure engineer.
 
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Full-Stack Development
-- Intelligent Systems & Automation
-- Problem Solving and System Design
+I build real-world systems combining cloud infrastructure, automation, and AI.
 
-I enjoy building real-world applications that combine AI, backend systems, and modern web technologies.
-
----
-
-## 🧠 Current Focus
-
-- Building AI-powered applications
-- Exploring Explainable AI and Computer Vision
-- Strengthening Data Structures & Algorithms
-- Developing scalable full-stack systems
-- Participating in hackathons and technical problem solving
+- 🔧 Currently learning: Linux, Bash, Python, Git (Phase 1 of 5)
+- ☁️ Next up: AWS, Docker, Terraform, Kubernetes
+- 🤖 End goal: Cloud + DevOps + LLM Engineering
+- 📍 Building in public — daily commits, real projects, no shortcuts
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
-- C
+### Currently Mastering (DevOps Path)
+- Linux & Bash scripting
+- Python for automation
+- Git & GitHub workflows
+- AWS (coming Phase 2)
+- Docker & Kubernetes (coming Phase 3)
+- Terraform, CI/CD, Prometheus, Grafana (coming Phase 3)
+- LLM Engineering & RAG systems (coming Phase 4)
 
-### Web Development
-- HTML
-- CSS
-- React.js
-- Node.js
-
-### Databases
-- MySQL
-- Supabase
-
-### AI / Machine Learning
-- Deep Learning
-- Computer Vision
-- Explainable AI (Grad-CAM Basics)
-
-### Tools & Platforms
-- Git
-- GitHub
-- Linux
-- VS Code
+### Previous Experience
+- Languages: Python, Java, C
+- Web: HTML, CSS, React.js, Node.js
+- Databases: MySQL, Supabase
+- AI/ML: Deep Learning, Computer Vision, Explainable AI (Grad-CAM)
 
 ---
 
-# 📌 Featured Projects
+## 📁 Active Repository
 
-## 🦷 OdTect — Explainable Oral Cancer Detection System
-Explainable AI-based multiclass oral lesion classification system using EfficientNet-B2 and Grad-CAM for interpretable medical image analysis.
+### 🗺️ learning-devops
+My public 18-month DevOps learning journal.
+Daily commits covering Linux → Python → AWS → Kubernetes → LLM Engineering.
+🔗 https://github.com/Tanishq2838/learning-devops
 
-### Features
+---
+
+## 📌 Previous Projects
+
+### 🦷 OdTect — Explainable Oral Cancer Detection System
+Explainable AI-based multiclass oral lesion classification using EfficientNet-B2
+and Grad-CAM for interpretable medical image analysis.
 - Medical image classification
 - Grad-CAM visual explanations
 - Dataset balancing & augmentation
-- Deep learning training pipeline
-- Performance evaluation using precision, recall, and F1-score
+🔗 https://github.com/Tanishq2838/OdTect
 
-🔗 Repository:  
-https://github.com/Tanishq2838/OdTect
-
----
-
-## 🛡️ TourX — Travel & Tourist Safety Platform
-A full-stack safety platform for travelers with SOS alerts, geofencing, and real-time location tracking.
-
-### Features
+### 🛡️ TourX — Travel & Tourist Safety Platform
+Full-stack safety platform with SOS alerts, geofencing, and real-time location tracking.
 - SOS emergency communication
 - Real-time location tracking
 - Unsafe-zone geofencing
-- Backend API integration
-- Interactive map services
-
-🔗 Repository:  
-https://github.com/Tanishq2838/TourX
+🔗 https://github.com/Tanishq2838/TourX
 
 ---
 
 ## 🏆 Achievements
-
 - Winner — TechSprint GDGoC State-Level Hackathon (Advanced to National Round)
 - Participated in Smart India Hackathon 2025
 - Solved 80+ problems on LeetCode
@@ -102,23 +74,16 @@ https://github.com/Tanishq2838/TourX
 ---
 
 ## 📈 Competitive Programming
-
-- LeetCode:  
-https://leetcode.com/u/tanishq_kundrapu
-
-- HackerRank:  
-https://www.hackerrank.com/profile/tanishqkundrapu
+- LeetCode: https://leetcode.com/u/tanishq_kundrapu
+- HackerRank: https://www.hackerrank.com/profile/tanishqkundrapu
 
 ---
 
 ## 📫 Connect With Me
-
-- LinkedIn:
-https://linkedin.com/in/tanishqkundrapu
-
-- GitHub:  
-https://github.com/Tanishq2838
+- LinkedIn: https://linkedin.com/in/tanishqkundrapu
+- GitHub: https://github.com/Tanishq2838
 
 ---
 
-⭐ Always exploring new technologies and building impactful systems.
+⭐ Transforming from developer to infrastructure engineer.
+Documenting every step publicly at github.com/Tanishq2838/learning-devops
