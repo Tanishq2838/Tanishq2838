@@ -46,6 +46,20 @@ Daily commits covering Linux → Python → AWS → Kubernetes → LLM Engineeri
 
 ---
 
+## ⚙️ DevOps Projects
+
+### 🖥️ Disk Monitor — Bash Automation Script
+Production-grade bash script that monitors disk usage across all filesystems.
+- Colour coded terminal output (green=OK, yellow=WARNING)
+- Timestamped logging with automatic log rotation
+- Configurable threshold, runs via cron hourly
+- Built with: Bash, df, awk, grep, cron
+🔗 https://github.com/Tanishq2838/learning-devops/tree/main/week1/day7
+
+*More projects coming as the roadmap progresses — Docker, Kubernetes, AWS, LLM Engineering*
+
+---
+
 ## 📌 Previous Projects
 
 ### 🦷 OdTect — Explainable Oral Cancer Detection System
